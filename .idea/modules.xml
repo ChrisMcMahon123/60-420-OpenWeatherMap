@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/60-420-OpenWeatherMap.iml" filepath="$PROJECT_DIR$/60-420-OpenWeatherMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mcmah113WeatherViewer.iml" filepath="$PROJECT_DIR$/mcmah113WeatherViewer.iml" />
     </modules>
   </component>
 </project>
