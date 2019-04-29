@@ -1,5 +1,5 @@
 # 60-420-OpenWeatherMap
-A simple android app that uses the OpenWeatherApi for weather forecast results for a specific area. Icons from https://github.com/manifestinteractive/weather-underground-icons
+An Android app that uses the OpenWeatherApi for weather forecast results for a specific area.
 
 ![Alt text](/screenshots/1.png?raw=true "Screenshot 1")
 
